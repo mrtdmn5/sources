@@ -1,0 +1,12 @@
+package com.airbnb.lottie.model.content;
+
+import com.airbnb.lottie.model.animatable.AnimatableFloatValue;
+
+/* loaded from: classes.dex */
+public final class BlurEffect {
+    public final AnimatableFloatValue blurriness;
+
+    public BlurEffect(AnimatableFloatValue animatableFloatValue) {
+        this.blurriness = animatableFloatValue;
+    }
+}
